@@ -1,15 +1,8 @@
 figlet Installer 
-
 clear 
-
 cd /home
-
 add user DosScript
-
 cd /home/DosScript
-
 git clone https://github.com/Blackyraw/DosScript.git
-
 clear 
-
-figlet Finish
+figlet Lets get Dos
